@@ -159,19 +159,16 @@
 ## 🌐 Let's Connect!
 
 <div align="center">
-  <a href="https://instagram.com/reyghafebryan" target="_blank">
+  <a href="https://instagram.com/dwireygha" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/dwi-reygha-febryan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dribbble.com/dwi-reygha-febryan" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
-  </a>
   <a href="https://dwireygha.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%231D4ED8.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:dwireyghafebryan@gmail.com">
+  <a href="mailto:dwireygha0802@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Dwi-Reygha-F" target="_blank">
