@@ -35,30 +35,21 @@
 <br/>
 
 <!-- ABOUT ME -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100%">
-        <h2>👋 Hi, I'm Dwi Reygha Febryan!</h2>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#112240">
+      <p>
+        🎓 <b>Mahasiswa</b> yang passionate di dunia <b>Web Development</b> & <b>UI/UX Design</b>.
         <br/>
-        <b>Mahasiswa | Web Developer | UI/UX Designer</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100%">
-        <p>
-          🎓 <b>Mahasiswa</b> yang passionate di dunia <b>Web Development</b> & <b>UI/UX Design</b>.
-          <br/>
-          💡 Suka eksplor teknologi baru & bikin desain yang <i>user-friendly</i>.
-          <br/>
-          🌱 Sedang fokus belajar <b>PHP Laravel</b>, <b>JavaScript Modern</b>, & <b>Design System</b>.
-          <br/>
-          ✨ Percaya kalau <i>kode yang bersih</i> + <i>desain yang cantik</i> = produk yang luar biasa!
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+        💡 Suka eksplor teknologi baru & bikin desain yang <i>user-friendly</i>.
+        <br/>
+        🌱 Sedang fokus belajar <b>PHP Laravel</b>, <b>JavaScript Modern</b>, & <b>Design System</b>.
+        <br/>
+        ✨ Percaya kalau <i>kode yang bersih</i> + <i>desain yang cantik</i> = produk yang luar biasa!
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
