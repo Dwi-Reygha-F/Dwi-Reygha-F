@@ -110,37 +110,13 @@
 <!-- CONNECT WITH ME -->
 ## 🌐 Let's Connect!
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://instagram.com/dwireygha" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white" alt="Instagram" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://linkedin.com/in/dwi-reygha-febryan" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://dwireygha.my.id" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=social&logo=google-chrome&logoColor=white" alt="Portfolio" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:dwireygha0802@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Dwi-Reygha-F" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://instagram.com/dwireygha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://linkedin.com/in/dwi-reygha-febryan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://dwireygha.my.id"><img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="mailto:dwireygha0802@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/Dwi-Reygha-F"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 <br/>
 
