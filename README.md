@@ -35,78 +35,48 @@
 <br/>
 
 <!-- ABOUT ME -->
-## 💫 About Me
-
-```yaml
-{
-  "name": "Dwi Reygha Febryan",
-  "role": "Mahasiswa | Web Developer | UI/UX Designer",
-  "location": "Indonesia 🇮🇩",
-  "focus": ["Web Development", "UI/UX Design", "Creative Coding"],
-  "learning": ["PHP Laravel", "JavaScript Modern", "Design System"],
-  "fun_fact": "Saya percaya kode yang bersih + desain yang cantik = produk yang luar biasa ✨"
-}
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100%">
+        <h2>👋 Hi, I'm Dwi Reygha Febryan!</h2>
+        <br/>
+        <b>Mahasiswa | Web Developer | UI/UX Designer</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100%">
+        <p>
+          🎓 <b>Mahasiswa</b> yang passionate di dunia <b>Web Development</b> & <b>UI/UX Design</b>.
+          <br/>
+          💡 Suka eksplor teknologi baru & bikin desain yang <i>user-friendly</i>.
+          <br/>
+          🌱 Sedang fokus belajar <b>PHP Laravel</b>, <b>JavaScript Modern</b>, & <b>Design System</b>.
+          <br/>
+          ✨ Percaya kalau <i>kode yang bersih</i> + <i>desain yang cantik</i> = produk yang luar biasa!
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
-<details open>
-  <summary><b>🌐 Frontend</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </div>
-</details>
-
-<details open>
-  <summary><b>⚙️ Backend & Database</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </div>
-</details>
-
-<details open>
-  <summary><b>🎨 Design & Tools</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </div>
-</details>
-
-<br/>
-
-<!-- STATS SECTION -->
-## 📊 GitHub Analytics
-
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dwi-Reygha-F&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=3B82F6&icon_color=60A5FA&text_color=93C5FD&border_radius=12" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=Dwi-Reygha-F&theme=tokyonight&hide_border=true&background=0A192F&ring=3B82F6&fire=60A5FA&currStreakLabel=93C5FD&border_radius=12" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwi-Reygha-F&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=3B82F6&text_color=93C5FD&border_radius=12" alt="Top Languages" height="150" />
-      </td>
-    </tr>
-  </table>
+  <h3>🌐 Frontend</h3>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="Frontend Stack" />
+  <br/><br/>
+  <h3>⚙️ Backend & Database</h3>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend Stack" />
+  <br/><br/>
+  <h3>🎨 Design & Tools</h3>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" alt="Design & Tools" />
 </div>
 
 <br/>
@@ -118,24 +88,6 @@
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dwi-Reygha-F&theme=react-dark&bg_color=0A192F&color=3B82F6&line=1D4ED8&point=60A5FA&area=true&area_color=1D4ED8&hide_border=true&border_radius=12" alt="Activity Graph" width="100%" />
   </a>
-</div>
-
-<br/>
-
-<!-- WAH ELEMENT 2 + 3: TROPHY + QUOTE -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="65%">
-        <h3>🏆 GitHub Trophy</h3>
-        <img src="https://github-profile-trophy.vercel.app/?username=Dwi-Reygha-F&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=1" alt="GitHub Trophy" />
-      </td>
-      <td align="center" width="35%">
-        <h3>💡 Dev Quote</h3>
-        <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=blue&border=true" alt="Dev Quote" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br/>
@@ -159,21 +111,35 @@
 ## 🌐 Let's Connect!
 
 <div align="center">
-  <a href="https://instagram.com/dwireygha" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/dwi-reygha-febryan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://dwireygha.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%231D4ED8.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:dwireygha0802@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Dwi-Reygha-F" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://instagram.com/dwireygha" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://linkedin.com/in/dwi-reygha-febryan" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://dwireygha.my.id" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=social&logo=google-chrome&logoColor=white" alt="Portfolio" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:dwireygha0802@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Dwi-Reygha-F" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
